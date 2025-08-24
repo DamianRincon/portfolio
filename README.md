@@ -1,17 +1,8 @@
 # Portafolio
 
 Proyecto desarrollado con Flutter Web.
-[Visitar el sitio] (https://damianrincon.github.io/)
+[Visitar el sitio](https://damianrincon.github.io/)
 
-## Getting Started
+![Preview](https://github.com/DamianRincon/portfolio/blob/main/Captura%20de%20pantalla%202025-08-24%20a%20la(s)%2017.53.01.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Deja tu estrellita <3 
