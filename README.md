@@ -1,6 +1,6 @@
-# portafolio
+# Portafolio
 
-A new Flutter project.
+Proyecto desarrollado con Flutter Web.
 
 ## Getting Started
 
